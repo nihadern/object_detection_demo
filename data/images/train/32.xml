@@ -14,13 +14,13 @@
 	<object>
 		<name>nihad</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>58</xmin>
-			<ymin>142</ymin>
-			<xmax>442</xmax>
-			<ymax>600</ymax>
+			<xmin>293</xmin>
+			<ymin>72</ymin>
+			<xmax>452</xmax>
+			<ymax>552</ymax>
 		</bndbox>
 	</object>
 </annotation>
