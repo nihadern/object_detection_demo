@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>images</folder>
 	<filename>22.jpg</filename>
-	<path>/home/nihadern/object_detection_demo/data/images/train/22.jpg</path>
+	<path>C:\Users\nihad\OneDrive\Desktop\Spring Semester 2020\Aerial Robotics\object_detection_demo\data\images\22.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>letter</name>
+		<name>object</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>244</xmin>
-			<ymin>155</ymin>
-			<xmax>437</xmax>
-			<ymax>369</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>letter</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>414</xmin>
-			<ymin>183</ymin>
-			<xmax>611</xmax>
-			<ymax>368</ymax>
+			<xmin>124</xmin>
+			<ymin>108</ymin>
+			<xmax>598</xmax>
+			<ymax>492</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>6.jpg</filename>
-	<path>C:\Users\nihad\OneDrive\Desktop\Spring Semester 2020\Aerial Robotics\object_detection_demo\data\images\6.jpg</path>
+	<filename>5.jpg</filename>
+	<path>C:\Users\nihad\OneDrive\Desktop\Spring Semester 2020\Aerial Robotics\object_detection_demo\data\images\5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>194</xmin>
-			<ymin>120</ymin>
-			<xmax>517</xmax>
-			<ymax>317</ymax>
+			<xmin>212</xmin>
+			<ymin>193</ymin>
+			<xmax>594</xmax>
+			<ymax>428</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>434</xmin>
-			<ymin>327</ymin>
-			<xmax>768</xmax>
-			<ymax>568</ymax>
+			<xmin>586</xmin>
+			<ymin>213</ymin>
+			<xmax>762</xmax>
+			<ymax>406</ymax>
 		</bndbox>
 	</object>
 </annotation>
